@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: yangweijie
+    password: '{cipher}7d540522dd4532e71718785b0c045de367d582f595e4f0b639eb6581e7c1b537'
